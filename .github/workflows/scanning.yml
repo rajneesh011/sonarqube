@@ -3,7 +3,7 @@ name: 🚀 DevSecOps Pipeline
 on:
   push:
     branches:
-      - main  # 🎯 Target branch for automation
+      - master  # 🎯 Target branch for automation
 
 jobs: 
   sonarcloud:
